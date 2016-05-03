@@ -46,7 +46,7 @@ output:
 ```r
     plot(dailyTotSteps$date,dailyTotSteps$steps,type="h", 
     main = "Histogram of the total number of steps taken per day",
-    ylab="Total  number of steps day", xlab=" October to November, 2012", 
+    ylab="Total  number of steps taken each day", xlab=" October to November, 2012", 
     lwd=5, col="green")
 ```
 
