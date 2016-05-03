@@ -56,6 +56,7 @@ output:
     geom_line(colour="red") + xlab("5-minute interval")+ 
       ylab("Average number of steps taken") 
 ```
+
 2. Five minute inteval for the maximum number of steps
 ```{r}
     maxSteps <- activityCC[which(activityCC$steps==max(activityCC$steps)),]

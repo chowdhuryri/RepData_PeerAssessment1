@@ -88,6 +88,7 @@ output:
 ```
 
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6-1.png)
+
 2. Five minute inteval for the maximum number of steps
 
 ```r
